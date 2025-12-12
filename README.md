@@ -30,6 +30,17 @@ Comprehensive downloadable data resources, including:
 * Comparative genomic data.
 * Phylogenomic datasets.
 
+## 💻 Local Deployment
+
+If you prefer to host the database locally, you can deploy the standalone version using Docker.
+
+Run the following command:
+
+```bash
+docker run -d -p 80:80 ghcr.io/yejunwang/egswebinterface_standalone:v1
+```
+Once the container is running, you can access the interface by visiting: http://127.0.0.1:80/
+
 ## 🔗 Related Resources
 
 For a list of external databases, web servers, and other resources relevant to *Salmonella* research, please visit the [Links](http://61.160.194.165:3080/ESG/links) page.
