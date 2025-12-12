@@ -37,7 +37,7 @@ If you prefer to host the database locally, you can deploy the standalone versio
 Run the following command:
 
 ```bash
-docker run -d -p 80:80 ghcr.io/yejunwang/egswebinterface_standalone:v1
+docker run -d --restart=always -p 80:80 ghcr.io/yejunwang/egswebinterface_standalone:v1
 ```
 Once the container is running, you can access the interface by visiting: http://127.0.0.1:80/
 
