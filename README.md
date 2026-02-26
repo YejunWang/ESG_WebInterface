@@ -12,19 +12,19 @@
 
 ## 🚀 Key Features
 
-dbESG offers three main modules to assist researchers in exploring genomic data:
+[dbESG](https://esg.szu-bioinf.org/) offers three main modules to assist researchers in exploring genomic data:
 
-### 1. [Browser](http://61.160.194.165:3080/ESG/browser)
+### 1. [Browser](https://lab.szu-bioinf.org/ESG/browser)
 A visual interface for the evolutionary annotation and comparison of *Salmonella* genomes.
 * Compare ancient and extant representative genomes.
 * Visualize evolutionary trajectories.
 
-### 2. [Tools](http://61.160.194.165:3080/ESG/tools)
+### 2. [Tools](https://lab.szu-bioinf.org/ESG/tools)
 A collection of software resources for genome analysis.
 * Access computational pipelines.
 * Utilize custom codes designed for *Salmonella* genomic research.
 
-### 3. [Datasets](http://61.160.194.165:3080/ESG/datasets)
+### 3. [Datasets](https://lab.szu-bioinf.org/ESG/datasets)
 Comprehensive downloadable data resources, including:
 * Genomic datasets.
 * Comparative genomic data.
@@ -56,7 +56,7 @@ If you use dbESG in your research, please cite the following manuscript:
 **dbESG** is maintained by the **HCD Lab** at Shenzhen University Health Science Center.
 
 * **Principal Investigator / Contact:** [wangyj@szu.edu.cn](mailto:wangyj@szu.edu.cn)
-* **Lab Website:** [HCD Lab](http://61.160.194.165:3080/)
+* **Lab Website:** [HCD Lab](https://lab.szu-bioinf.org/)
 
 ---
 *© HCD Laboratory, Shenzhen University Health Science Center.*
